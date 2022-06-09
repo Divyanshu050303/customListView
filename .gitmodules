@@ -1,0 +1,3 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/Divyanshu050303/android.git
